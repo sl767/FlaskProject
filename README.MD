@@ -3,4 +3,4 @@ this is my project
 
 
 # SQL Query Screenshot
-[pycharm data query](screenshot/query.PNG)
+![query](screenshot/query.PNG)

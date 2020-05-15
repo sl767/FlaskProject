@@ -3,23 +3,30 @@ this is my project
 
 #UPDATES FOR FINAL PROJECT PART 1&2
 
-#add city on chrome
+# Add city on chrome
+
 ![addcity](screenshot/addcity.png)
 
-#delete city on chrome
+# Delete city on chrome
+
 ![delete](screenshot/citydeleted.jpg)
 
-#city data on chrome
+# City data on chrome
+
 ![addcity2](screenshot/citieschrome2.png)
 
-#city data on pycharm
+# City data on pycharm
+
 ![pycharmdata](screenshot/datapycharm.png)
 
-#postman
+# Postman
+
 ![postman1](screenshot/postman1.png)
-#postman post
+# Postman post
+
 ![postmanpost](screenshot/postmanpost2.png)
-#postman deleted
+# Postman deleted
+
 ![postmandeleted](screenshot/postmandeleted.jpg)
 
 # SQL Query Screenshot

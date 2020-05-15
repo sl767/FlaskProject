@@ -1,7 +1,7 @@
 # Docker Flask Pycharm Project
 this is my project
 
-#UPDATES FOR FINAL PROJECT PART 1&2
+# UPDATES FOR FINAL PROJECT PART 1&2
 
 # Add city on chrome
 

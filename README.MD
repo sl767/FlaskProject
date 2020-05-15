@@ -7,6 +7,9 @@ this is my project
 
 ![addcity](screenshot/addcity.png)
 
+# City added on chrome
+![addedcity](screenshot/cityadded.png.jpg)
+
 # Delete city on chrome
 
 ![delete](screenshot/citydeleted.jpg)

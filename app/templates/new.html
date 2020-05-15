@@ -1,0 +1,58 @@
+{% extends "layout.html" %}
+{% block content %}
+<form action="/cities/new" method="POST">
+    <div class="row">
+        <div class="col">
+            <label for="City">City</label>
+            <input id="City" type="text" class="form-control" placeholder="City"
+                   name="City">
+        </div>
+        <div class="col">
+            <label for="State">State</label>
+            <input id="State" type="text" class="form-control" placeholder="State" name="State">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <label for="LatD">LatD</label>
+            <input id="LatD" type="text" class="form-control" placeholder="LatD" name="LatD">
+        </div>
+        <div class="col">
+            <label for="LatM">LatM</label>
+            <input id="LatM" type="text" class="form-control" placeholder="LatM" name="LatM">
+        </div>
+        <div class="col">
+            <label for="LatS">LatS</label>
+            <input id="LatS" type="text" class="form-control" placeholder="LatS" name="LatS">
+        </div>
+        <div class="col">
+            <label for="NS">NS</label>
+            <input id="NS" type="text" class="form-control" placeholder="NS" name="NS">
+        </div>
+
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <label for="LonD">LonD</label>
+            <input id="LonD" type="text" class="form-control" placeholder="LonD" name="LonD">
+        </div>
+        <div class="col">
+            <label for="LonM">LonM</label>
+            <input id="LonM" type="text" class="form-control" placeholder="LonM" name="LonM">
+        </div>
+        <div class="col">
+            <label for="LonS">LonS</label>
+            <input id="LonS" type="text" class="form-control" placeholder="LonS" name="LonS">
+        </div>
+        <div class="col">
+            <label for="EW">EW</label>
+            <input id="EW" type="text" class="form-control" placeholder="EW" name="EW">
+        </div>
+    </div>
+    <br>
+    <button type="submit" class="btn btn-success">Create</button>
+
+</form>
+
+{% endblock %}
